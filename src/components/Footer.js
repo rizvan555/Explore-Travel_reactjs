@@ -20,7 +20,7 @@ const FooterStyled = styled.footer`
 
     img {
       width: 30px;
-      margin-bottom: 2vh;
+      margin-bottom: 3vh;
     }
     p {
       margin-bottom: 8vh;
